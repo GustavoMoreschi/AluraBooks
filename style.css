@@ -1,0 +1,17 @@
+/**/
+@import url("./styles/header.css");
+
+/*Exportando a(s) fontes utilizadas no site*/
+
+
+/*Criando as váriaveis que seram utilizadas em grande parte no projeto*/
+:root{
+    --cor-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
+
+/*Seletores de forma mais geral*/
+body{
+    background-color: var(--cor-fundo);
+}
+
